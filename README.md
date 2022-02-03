@@ -1,5 +1,8 @@
 # Reduxulous
 
+![image](https://user-images.githubusercontent.com/88811836/152266544-0aafb4ca-ed92-4af4-829d-18f4cdc624c5.png)
+
+
 
 ## Table of Contents
 * [Description](#Description)
