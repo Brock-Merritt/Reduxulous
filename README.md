@@ -3,7 +3,6 @@
 ![image](https://user-images.githubusercontent.com/88811836/152266544-0aafb4ca-ed92-4af4-829d-18f4cdc624c5.png)
 
 
-
 ## Table of Contents
 * [Description](#Description)
 
@@ -24,22 +23,23 @@
 
 
 ## Description 
-An easy-to-use book search engine, that will have many entries for any title inputted. Save books to your personal list, and remove them easily once you are done reading them
+A shopping website created through React, utilizing the redux library to constantly update the enviroment/state
 
 ## Installation 
 None needed
     
 ## Usage 
-First, get registered with the Sign-up page, then the functions to research, track, and bookmark books as you see fit, become available
+First, get registered with the Sign-up page, then search through products either by name or category. After finding products you wish to purpose, add to cart(including whatever quantity you wish), and then checkout!
 
 ## Contributors 
 Brock Merritt
 
 ## Input Commands 
-Search for whatever book title you want
+None needed
 
 ## License
 MIT
+
 
 ## Personal Information
     *Please contact at:
