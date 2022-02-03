@@ -10,6 +10,8 @@ import {
   CLEAR_CART,
   TOGGLE_CART
 } from "./actions";
+
+//first state that is used
 const initialState = {
   products: [],
   categories: [],
