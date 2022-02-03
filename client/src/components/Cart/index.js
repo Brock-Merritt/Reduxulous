@@ -13,7 +13,9 @@ import  { useSelector, useDispatch } from "react-redux";
 const stripePromise = loadStripe('pk_test_TYooMQauvdEDq54NiTphI7jx');
 
 const Cart = () => {
+  //used to read state and compare with global
   const state = useSelector((state) => state);
+  //detects change
   const dispatch = useDispatch();
   const [getCheckout, { data }] = useLazyQuery(QUERY_CHECKOUT);
 
